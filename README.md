@@ -20,6 +20,7 @@ npm i @neondatabase/serverless
 ```
 npm i dotenv
 ```
+Document Reference: https://orm.drizzle.team/docs/tutorials/drizzle-nextjs-neon
 
 First, run the development server:
 

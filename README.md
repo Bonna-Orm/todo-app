@@ -20,6 +20,18 @@ npm i @neondatabase/serverless
 ```
 npm i dotenv
 ```
+* Push Connection String With Database PSQL
+```
+npx drizzle-kit push
+```
+* Generate migrations:
+```
+npx drizzle-kit generate
+```
+* Apply migrations:
+```
+npx drizzle-kit migrate
+```
 Document Reference: https://orm.drizzle.team/docs/tutorials/drizzle-nextjs-neon
 
 First, run the development server:
